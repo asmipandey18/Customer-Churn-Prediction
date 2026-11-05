@@ -1,6 +1,6 @@
 fastapi>=0.110
 uvicorn[standard]>=0.29
-pymongo>=4.7
+pymongo>=4.9
 scikit-learn==1.6.1
 pandas>=2.0
 joblib>=1.3
